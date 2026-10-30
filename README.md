@@ -9,6 +9,7 @@
 | 工具 | 特点 | 官方页 |
 |---|---|---|
 | RaiDrive | 商业多协议挂载，支持 WebDAV/SFTP/SFTP/SharePoint，企业级策略 | <https://raidrive.com> |
+| ScsDrive | 把 WebDAV / NAS 远程存储挂成真实本地盘符（设备级挂载，缩略图与 Windows Search 可用） | <https://drive.scsoi.com> |
 | ExpanDrive | 老牌商业挂载客户端，Teams/SharePoint 集成 | <https://www.expandrive.com> |
 | Mountain Duck | macOS/Windows 通用，挂载 WebDAV/SFTP/S3 | <https://mountainduck.io> |
 | Cyberduck | 开源、跨平台，协议覆盖广，适合纯 WebDAV | <https://cyberduck.io> |
