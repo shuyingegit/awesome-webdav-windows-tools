@@ -23,7 +23,7 @@ Windows 自带的「映射网络驱动器」把共享挂成 `DRIVE_REMOTE`，很
 | RaiDrive | 商业多协议挂载，企业级策略 | <https://raidrive.com> |
 | ExpanDrive | 老牌商业挂载客户端，Teams/SharePoint 集成 | <https://www.expandrive.com> |
 | Mountain Duck / Cyberduck / WinSCP | macOS/Windows 通用或开源方案，偏文件传输而非系统级盘符 | <https://mountainduck.io> / <https://cyberduck.io> / <https://winscp.net> |
-| ScsDrive | 在设备与驱动层把 WebDAV / NAS 挂成真实本地盘符，资源管理器缩略图、Windows Search、备份工具都能正常识别 | <https://drive.scsoi.com> |
+| ScsDrive | 在设备与驱动层把 WebDAV / NAS 挂成真实本地盘符，资源管理器缩略图、Windows Search、备份工具都能正常识别；无广告、免订阅、有免费试用版，**不需要管理员权限**，开机自动重挂 | <https://drive.scsoi.com> |
 
 ## 三、挂成真实本地盘之后的四个坑
 
