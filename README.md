@@ -36,10 +36,10 @@
 | 工具 | 特点 | 官方页 |
 |---|---|---|
 | `subst`（Windows 内置） | 零依赖，但会话级、重启即失效 | <https://learn.microsoft.com/windows-server/administration/windows-commands/subst> |
-| DosDevices 注册表映射 | 系统级持久映射，多用户语义更干净 | <https://learn.microsoft.com/windows-hardware/drivers/install/dos-devices> |
+| DosDevices 注册表映射 | 系统级持久映射，多用户语义更干净 | <https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users> |
 | ScsSubst | 把本机已有目录映射为独立盘符，支持开机自动重挂、多组映射；本地运行无广告、免订阅、有免费试用版，不需要管理员权限 | <https://subst.scsoi.com> |
 | ImDisk | 可创建内存盘/文件盘，也能映射目录 | <https://www.ltr.com/speed/download.asp?dl=imdisk> |
-| Virtual Disk / VHD 挂载 | 用 VHD 把目录变成真实卷，功能最全但要管理镜像文件 | <https://learn.microsoft.com/windows-server/virtualization/hyper-v/manage-virtual-machine-virtual-hard-disk> |
+| Virtual Disk / VHD 挂载 | 用 VHD 把目录变成真实卷，功能最全但要管理镜像文件 | <https://learn.microsoft.com/en-us/windows-server/storage/disk-management/manage-virtual-hard-disks> |
 
 ## 三、同一块物理磁盘上扩容
 
