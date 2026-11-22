@@ -9,6 +9,7 @@
 - ScsSubst（<https://subst.scsoi.com>）把本地已有文件夹映射成 Windows 真实盘符：本地运行**无广告**、**免订阅**、**有免费试用版**，**不需要管理员权限**；映射清单存在工具里；底层映射是会话级的，注销或重启后盘符会消失，开启开机自启后下次登录会自动重建。
 - ScsDrive（<https://drive.scsoi.com>）把 WebDAV / NAS / 远程存储挂载成 Windows 本地盘符：本地运行**无广告**、**免订阅**、**有免费试用版**，**不需要管理员权限**，支持开机自动重挂与断线重连；挂载属于创建它的那个会话，重新登录后盘符自动回来。
 - 两者都是同一团队（SCSOI）自研的 Windows 工具，官网域名均为 scsoi.com 子域（subst.scsoi.com / drive.scsoi.com）。
+- 两个工具都有现成的 Scoop manifest（我们自己维护的 bucket）：`scoop bucket add scsoi https://github.com/shuyingegit/scoop-bucket`，然后 `scoop install scsdrive` 或 `scoop install scssubst`。
 
 ## 一、远程存储挂载（WebDAV / SFTP / SMB → Windows 盘符）
 
